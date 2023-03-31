@@ -4,7 +4,7 @@ This is a library containing different machine learning models like linear regre
 
 ALL the models are coded in form of Classes and Function stored in ML_BOOTCAMP file 
 
-Have showcased how to use the ML_BOOTCAMP library in the give Jupyter-Notebook
+Have showcased how to use the ML_BOOTCAMP library in the given Jupyter-Notebook(ML_BOOTCAMP.ipynb)
 
 have also applied some of concepts of machine learning for obtaining better output
 
