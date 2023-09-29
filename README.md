@@ -1,4 +1,4 @@
-# ML BOOTCAMP
+# Basic Machine Learning ModelS
 
 This is a library containing different machine learning models like linear regression , polynomial regression , logistic regression , KNN and Neural Network
 
